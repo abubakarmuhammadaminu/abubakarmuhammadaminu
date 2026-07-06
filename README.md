@@ -4,6 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Physiotherapist and Data sceintist
 ----------------------------------
 
+I'm a Data Sceintist, Machine Learning enthusiast, and Physiotherapist passionate about using data and AI to solve real-world problems. I enjoy building data-driven solutions with Python, SQL, Power BI, and machine learning while exploring applications in healthcare, business, and research.
+
+I'm continuously learning, contributing to open-source projects, and expanding my skills in AI, data science, and software development. I believe technology should create meaningful impact through innovation, collaboration, and lifelong learning.
+
+Tech Stack: Python • SQL • Pandas • NumPy • Scikit-learn • TensorFlow • Power BI • Excel • Git • GitHub
+
+Always learning. Always building. Always improving.
+
 * 🌍  I'm based in Kaduna
 * ✉️  You can contact me at [aminuabubakar1338@gmail.com](mailto:aminuabubakar1338@gmail.com)
 * 🧠  I'm currently learning Natural language processing (NLP) and Large language model (LLM)
